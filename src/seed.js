@@ -110,7 +110,7 @@ async function seed() {
       );
     }
 
-    await addHistory(client, 'Catálogos y perfiles de ejemplo cargados.');
+    await addHistory(client, 'Catálogos y perfiles iniciales cargados.');
   });
 }
 
